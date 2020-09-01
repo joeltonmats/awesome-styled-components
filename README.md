@@ -47,24 +47,15 @@
 * [react-data-table-component](https://github.com/jbetancur/react-data-table-component) - Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.
 * [oah-ui](https://github.com/AhmedElywa/oah-ui) - Component library built with four themes, grid system, ltr and rtl directions, theme system to add and edit themes
 * [react-styled-floating-label](https://github.com/ihor/react-styled-floating-label) - Floating label component which works with any HTML input.
-* [grape-ui](https://github.com/napagroup/grape-ui-react) - Component library using styled-system and other open source components.
-* [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) - Simple one-off canvas menu.
 * [React95](https://github.com/arturbien/React95) - Windows 95 style UI components.
-* [react-functional-select](https://github.com/based-ghost/react-functional-select) - Micro-sized & micro-optimized select component.
 * [Grommet](https://v2.grommet.io/) - Component library built with accessibility, modularity, responsiveness, and theming in mind.
 * [bootstrap-styled](https://github.com/bootstrap-styled) - Bootstrap 4 Components, mixins, utilities implementations with global sharing community ecosystem in mind.
 * [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable components for spinners.
-* [styled-react-modal](https://github.com/AlexanderRichey/styled-react-modal) - Modal component with familiar API and syntactic sugar.
-* [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System.
 * [rendition](https://github.com/resin-io-modules/rendition) - A powerful component library for quickly building modern web apps.
 * [styled-icons](https://github.com/jacobwgillespie/styled-icons) - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
-* [@hackclub/design-system](https://github.com/hackclub/design-system) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
-* [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
 * [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
 * [ReaKit](https://github.com/diegohaz/reakit) - Toolkit for building interactive UIs.
 * [Rebass](https://github.com/jxnblk/rebass) - Functional React UI component library.
-* [react-css-loaders](https://github.com/LucasBassetti/react-css-loaders) - A collection of pure CSS loading components.
-* [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - Simple chatbot / conversational-ui component.
 * [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your Components.
 * [uiGradients](https://github.com/garetmckinley/uigradients) - Drop-in component for gradients.
 * [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Accessible ReactJS tooltip component.
