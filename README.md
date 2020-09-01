@@ -63,18 +63,9 @@
 
 #### Grid Systems
 
-* [bedrock-layout-primitives](https://github.com/Bedrock-Layouts/Bedrock) - Foundational Layout Primitives for your React App
-* [Atomic Layout](https://github.com/kettanaito/atomic-layout) - Layout composition as a physical React component.
-* [react-raster](https://github.com/andreasfaust/react-raster) - Advanced Grid-System, highly customizable and ready for SSR.
-* [react-flex-ready](https://github.com/smakosh/react-flex-ready) - FlexBox grid system with `flex-gap` property.
-* [Cinch Layout](https://github.com/jim-at-jibba/react-native-cinch-layout) - React Native grid system inspired by Hedron.
 * [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout.
 * [styled-bootstrap-grid](https://github.com/dragma/styled-bootstrap-grid) - Twitter Bootstrap v4 (grid system only).
-* [neat-components](https://github.com/magicink/neat-components) - Implementation of ThoughtBot's Neat grid system.
 * [styled-css-grid](https://styled-css-grid.js.org/) - A tiny CSS grid layout.
-* [react-flexa](https://github.com/aaronvanston/react-flexa) - Implementing the flexbox CSS API responsively.
-* [react-styled-flexboxgrid](https://github.com/LoicMahieu/react-styled-flexboxgrid) - Grid system based on flexbox.
-* [Hedron](http://github.com/jsbros/hedron) - No-frills flex-box grid system.
 
 #### Helpers
 * [MetaComponent](https://github.com/springload/metacomponent) - Migrate legacy HTML and CSS to styled components.
